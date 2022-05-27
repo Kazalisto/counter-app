@@ -1,5 +1,7 @@
 let countEl = document.getElementById('count-el')
+let totalPassenger = document.getElementById('total-passenger')
 let count = 0
+let totalPassenger = count
 
 function increment (){
     count = count + 1
